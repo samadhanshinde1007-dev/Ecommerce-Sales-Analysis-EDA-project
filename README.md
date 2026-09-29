@@ -74,4 +74,4 @@ Example: `![Dashboard Preview](https://github.com/username/repo/assets/image.png
 
 ### Total orders by state
 
-![Category Analysis](https://github.com/samadhanshinde1007-dev/Ecommerce-Sales-Analysis-EDA-project/blob/main/Total%20count%20by%20product%20category.png)
+![Category Analysis](https://github.com/samadhanshinde1007-dev/Ecommerce-Sales-Analysis-EDA-project/blob/main/Orders%20By%20State.png)
