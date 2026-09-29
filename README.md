@@ -60,10 +60,6 @@ An exploratory data analysis (EDA) project focused on analyzing e-commerce trans
 
 ## 6. Screenshots / Demos
 
-Show what the dashboard looks like. - `![Alt_text](https://github.com/username/repo/assets/image.png)`[cite: 3]
-
-Example: `![Dashboard Preview](https://github.com/username/repo/assets/image.png)`[cite: 3]
-
 ### Sales Distribution by Age
 
 ![Demographic Analysis](https://github.com/samadhanshinde1007-dev/Ecommerce-Sales-Analysis-EDA-project/blob/main/Sales%20by%20age.png)
