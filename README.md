@@ -64,9 +64,9 @@ Show what the dashboard looks like. - `![Alt_text](https://github.com/username/r
 
 Example: `![Dashboard Preview](https://github.com/username/repo/assets/image.png)`[cite: 3]
 
-### Sales Distribution by Demographics
+### Sales Distribution by Age
 
-`![Demographic Analysis](https://github.com/your-username/ecommerce-sales-eda/assets/demographics.png)`
+![Demographic Analysis](https://github.com/samadhanshinde1007-dev/Ecommerce-Sales-Analysis-EDA-project/blob/main/Sales%20by%20age.png)
 
 ### Product Category & Sales Performance
 
