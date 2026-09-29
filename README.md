@@ -68,6 +68,10 @@ Example: `![Dashboard Preview](https://github.com/username/repo/assets/image.png
 
 ![Demographic Analysis](https://github.com/samadhanshinde1007-dev/Ecommerce-Sales-Analysis-EDA-project/blob/main/Sales%20by%20age.png)
 
-### Product Category & Sales Performance
+### Product Category Count
 
-`![Category Analysis](https://github.com/your-username/ecommerce-sales-eda/assets/categories.png)`
+![Category Analysis](https://github.com/samadhanshinde1007-dev/Ecommerce-Sales-Analysis-EDA-project/blob/main/Total%20count%20by%20product%20category.png)
+
+### Total orders by state
+
+![Category Analysis](https://github.com/samadhanshinde1007-dev/Ecommerce-Sales-Analysis-EDA-project/blob/main/Total%20count%20by%20product%20category.png)
